@@ -1,4 +1,4 @@
-[![MC Technology](src/mctechnology_extendido.GIF)]
+[MC Technology](src/mctechnology_extendido.GIF)
 
 <h1 align="center">Hi, I'm Guillermo Verón <img src="./src/wave.gif" width="30px"></h1>
 
