@@ -19,10 +19,11 @@
   <summary>:zap: About me!</summary>
 
 ### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+
 - 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
+- 🤓 I’m currently learning everything
+- 👾 I am very curious and that is why you start studying programming
+- 🗒 I am currently very obsected with learning vimscript
 </details>
 
 <br />
@@ -96,7 +97,7 @@
   </details> </td>
 </tr>
 <tr>
-<td>
+<td>s
 
 [<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
 
@@ -145,6 +146,7 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
+
 - [corne keyboard animaciones con QMK &lpar;bongocat, luna, crab, ocean-dream&rpar; | MC Technology](https://www.youtube.com/watch?v=_dswDmpqY0A)
 - [corne keyboard animaciones para teclado custom con QMK &lpar;bongocat y mas ...&rpar; | MC Technology](https://www.youtube.com/watch?v=w9Z_ODrKhvQ)
 - [corne keyboard full wireless nicenano tutorial &lpar;guia facil&rpar; | MC Technology](https://www.youtube.com/watch?v=YVi7ROevBAI)
@@ -180,7 +182,6 @@
 [youtube]: https://www.youtube.com/c/Guilleveron
 [instagram]: https://www.instagram.com/veronguillermo/
 [facebook]: https://www.facebook.com/guillermo.veronfernandez.3/
-
 [vimtools]: https://github.com/Guilleveron/vimtools
 [jailbreakrepo]: https://Guilleveron.github.io/
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
