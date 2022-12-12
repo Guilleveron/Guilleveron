@@ -4,10 +4,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@Guilleveron | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@Guilleveron | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@guillermo-veron | Linkedin" width="22px" src="./src/linkeding.svg" />][linkedin]
+[<img align="left" alt="@guilleVeron98 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@veronguillermo | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@guillermo-veron | Facebook" width="22px" src="./src/facebook.png" />][facebook]
 
 </td>
 </tr>
@@ -37,23 +37,27 @@
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-NuxtJS-informational?style=flat&logo=Nuxtdotjs&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=Angular&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Style-Vuetify-informational?style=flat&logo=vuetify&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Style-Css-informational?style=flat&logo=css3&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white"/> </a>
 </p>
 <br />
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/Guilleveron">
@@ -63,14 +67,8 @@
 
 ![Snake animation](https://github.com/Guilleveron/Guilleveron/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guilleveron&no-frame=true&theme=codeSTACKr&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
+[linkedin]: https://www.linkedin.com/in/guillermo-v-b029bb10a/
 [twitter]: https://twitter.com/guilleVeron98
-[youtube]: https://www.youtube.com/c/Guilleveron
 [instagram]: https://www.instagram.com/veronguillermo/
 [facebook]: https://www.facebook.com/guillermo.veronfernandez.3/
 [vimtools]: https://github.com/Guilleveron/vimtools
